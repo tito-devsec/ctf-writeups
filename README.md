@@ -8,6 +8,7 @@ Detailed step-by-step solutions for Capture The Flag challenges. Each write-up i
 ctf-writeups/
 ├── picoctf/              # PicoCTF challenge solutions
 ├── web-exploitation/     # Web-focused CTF challenges
+│   └── global-truth-bank-jwt-weak-secret/ # JWT Weak Secret -> Admin Privilege Escalation
 ├── reverse-engineering/  # Reverse engineering challenges
 └── README.md
 ```
@@ -24,6 +25,7 @@ Solutions for PicoCTF competitions focusing on:
 
 ### Web Exploitation
 Detailed write-ups for web-based CTF challenges:
+- [JWT Weak Secret -> Admin Privilege Escalation (Global Truth Bank)](./web-exploitation/global-truth-bank-jwt-weak-secret/README.md)
 - Authentication bypass
 - SQL injection
 - Cross-site scripting (XSS)
@@ -107,7 +109,7 @@ Each write-up follows this structure:
 | Category | Count | Completion Status |
 | :--- | :---: | :--- |
 | PicoCTF | TBD | In Progress |
-| Web Exploitation | TBD | In Progress |
+| Web Exploitation | 1 | In Progress |
 | Reverse Engineering | TBD | In Progress |
 
 ## 🔗 Useful Resources
@@ -146,5 +148,5 @@ This repository is for educational purposes.
 
 ---
 
-**Last Updated:** January 2026
+**Last Updated:** February 2026
 **Author:** Tito Oscar Mwaisengela
