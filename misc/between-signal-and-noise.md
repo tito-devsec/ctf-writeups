@@ -1,9 +1,10 @@
 # CTF Write-up: Between Signal and Noise
 
+**Source:** Cyber Premier League
 **Category:** Misc
 **Points:** 300
 **Challenge Author:** DR PROGRAMMER
-**Write-up Author:** Manus AI
+**Write-up Author:**TitoDevsec (T1t0D3v$3c)
 
 ## Challenge Summary
 
