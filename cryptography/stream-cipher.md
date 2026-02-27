@@ -1,7 +1,7 @@
 # CTF Write-up: Between Signal and Noise – Stream Cipher Challenge
 
 **Category:** Cryptography / Forensics
-**Challenge Source:** Cyber Premier League 2026
+**Challenge Source:** PicoCTF
 **Write-up Author:** TitoDevsec (T1t0D3v$3c)
 
 ## Challenge Summary
