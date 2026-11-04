@@ -1,6 +1,16 @@
-# CTF Write-ups
+<h1 align="center">🚩 CTF Write-ups</h1>
+<p align="center"><b>Step-by-step solutions across web, pwn, reversing, crypto, forensics and OSINT, with methodology and proof-of-concept.</b></p>
 
-Detailed step-by-step solutions for Capture The Flag challenges. Each write-up includes methodology, tools used, lessons learned, and proof-of-concept code.
+<p align="center">
+  <img src="https://img.shields.io/badge/Categories-8%2B-455CE9?style=flat-square" alt="Categories" />
+  <img src="https://img.shields.io/badge/Format-Methodology%20%2B%20PoC-6E40C9?style=flat-square" alt="Format" />
+  <a href="https://github.com/tito-devsec/ctf-writeups/stargazers"><img src="https://img.shields.io/github/stars/tito-devsec/ctf-writeups?style=flat-square&color=f1c40f" alt="Stars" /></a>
+</p>
+
+<p align="center"><i>Stuck on a similar challenge? A ⭐ keeps these write-ups within reach for next time.</i></p>
+
+---
+
 
 ## 📋 Repository Structure
 
